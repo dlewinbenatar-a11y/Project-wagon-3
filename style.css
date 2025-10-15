@@ -1,0 +1,19 @@
+css
+body{
+ color: blue;
+background-color: red;
+font-weight: 300;
+font-family: helvetica;	
+letter-spacing: 10px;
+ }
+
+ h1{
+background-color: red;
+color: blue;
+font-family: helvetica;	
+font-weight: 200;
+letter-spacing: 5px;
+font-size: 100px;
+
+
+ }

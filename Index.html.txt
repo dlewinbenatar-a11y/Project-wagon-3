@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css
+			<title>Page Title.characters</Daniel page>
+	<meta name="description" content="This is Daniel Lewin page
+, nice to meet you">
+	<meta charset="utf-8">
+	color: #FF530D;
+color: rgb(255, 83, 13);
+color: rgba(255, 83, 13, 1.0);
+  </head>
+  <body>
+		<!-- Page's content = displayed on the page -->
+  </body>
+  @import url(https://www.linkedin.com/notifications/?filter=all)
+  <head>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+</html>
